@@ -1,3 +1,12 @@
+### Assignment 1
+
+Create a java program that enters the details of 10 students by creating a class student. The details
+entered are Rollno, Name, Phone number, age and CGPA. Display the name of the student with the
+highest CGPA. Display the phone number of the student whose name is ‘ANU’. Display the Rollno of
+the youngest student in the class.
+
+```
+
 Enter roll no :
 59
 Enter Name : 
@@ -102,3 +111,4 @@ Data are:-
 Name of the student with highest CGPA : akash
 Phone no. of ANU : 9048514043
 Roll no. of youngest student : 23
+```  
